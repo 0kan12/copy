@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Euclid';
+    src: url(../fonts/EuclidCircularALight.eot);
+    src: url(../fonts/EuclidCircularALight-1.eot) format('embedded-opentype'), url(../fonts/EuclidCircularALight.otf) format('otf'), url(../fonts/EuclidCircularALight.ttf) format('truetype'), url(../fonts/EuclidCircularALight.woff) format('woff'), url(../fonts/EuclidCircularALight.woff2) format('woff2');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Euclid';
+    src: url(../fonts/EuclidCircularARegular.eot);
+    src: url(../fonts/EuclidCircularARegular-1.eot) format('embedded-opentype'), url(../fonts/EuclidCircularARegular.otf) format('otf'), url(../fonts/EuclidCircularARegular.woff) format('woff'), url(../fonts/EuclidCircularARegular.ttf) format('truetype'), url(../fonts/EuclidCircularARegular.woff2) format('woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Euclid';
+    src: url(../fonts/EuclidCircularAMedium.eot);
+    src: url(../fonts/EuclidCircularAMedium-1.eot) format('embedded-opentype'), url(../fonts/EuclidCircularAMedium.otf) format('otf'), url(../fonts/EuclidCircularAMedium.ttf) format('truetype'), url(../fonts/EuclidCircularAMedium.woff) format('woff'), url(../fonts/EuclidCircularAMedium.woff2) format('woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Euclid';
+    src: url(../fonts/EuclidCircularASemiBold.eot);
+    src: url(../fonts/EuclidCircularASemiBold-1.eot) format('embedded-opentype'), url(../fonts/EuclidCircularASemiBold.woff2) format('woff2'), url(../fonts/EuclidCircularASemiBold.woff) format('woff'), url(../fonts/EuclidCircularASemiBold.ttf) format('truetype'), url(../fonts/EuclidCircularASemiBold.otf) format('otf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Euclid';
+    src: url(../fonts/EuclidCircularABold.eot);
+    src: url(../fonts/EuclidCircularABold-1.eot) format('embedded-opentype'), url(../fonts/EuclidCircularABold.otf) format('otf'), url(../fonts/EuclidCircularABold.ttf) format('truetype'), url(../fonts/EuclidCircularABold.woff) format('woff'), url(../fonts/EuclidCircularABold.woff2) format('woff2');
+    font-weight: 700;
+}

@@ -1,0 +1,400 @@
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\npm\remixicon@2.5.0\fonts\remixicon.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.eot?t=1590207869815
+File Name: C:\Downloaded Web Sites\sanalitem.net\npm\remixicon@2.5.0\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.svg?t=1590207869815
+File Name: C:\Downloaded Web Sites\sanalitem.net\npm\remixicon@2.5.0\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.ttf?t=1590207869815
+File Name: C:\Downloaded Web Sites\sanalitem.net\npm\remixicon@2.5.0\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.woff2?t=1590207869815
+File Name: C:\Downloaded Web Sites\sanalitem.net\npm\remixicon@2.5.0\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.woff?t=1590207869815
+File Name: C:\Downloaded Web Sites\sanalitem.net\npm\remixicon@2.5.0\fonts\remixicon.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Downloaded Web Sites\sanalitem.net\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\sanalitem.net\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\sanalitem.net\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\sanalitem.net\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\sanalitem.net\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\sanalitem.net\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\sanalitem.net\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://sanalitem.net/
+File Name: C:\Downloaded Web Sites\sanalitem.net\index.htm
+Content Type: text/html
+
+Uri: https://sanalitem.net/blog
+File Name: C:\Downloaded Web Sites\sanalitem.net\blog.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/blog/cyberpunk-2077-sistem-gereksinimleri
+File Name: C:\Downloaded Web Sites\sanalitem.net\blog\cyberpunk-2077-sistem-gereksinimleri.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/blog/en-iyi-10-acik-dunya-oyunu
+File Name: C:\Downloaded Web Sites\sanalitem.net\blog\en-iyi-10-acik-dunya-oyunu.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/blog/en-iyi-yaris-oyunlari-hiz-tutkunlari-icin-vazgecilmezler
+File Name: C:\Downloaded Web Sites\sanalitem.net\blog\en-iyi-yaris-oyunlari-hiz-tutkunlari-icin-vazgecilmezler.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/blog/oyun-konsollari-karsilastirmasi-ps5-vs-xbox-series-x
+File Name: C:\Downloaded Web Sites\sanalitem.net\blog\oyun-konsollari-karsilastirmasi-ps5-vs-xbox-series-x.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/img/titlesvg.svg
+File Name: C:\Downloaded Web Sites\sanalitem.net\img\titlesvg.svg.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/index
+File Name: C:\Downloaded Web Sites\sanalitem.net\index.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/kategori/pubg-mobile-random-hesap
+File Name: C:\Downloaded Web Sites\sanalitem.net\kategori\pubg-mobile-random-hesap.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/kategori/steam-oyunlar
+File Name: C:\Downloaded Web Sites\sanalitem.net\kategori\steam-oyunlar.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/kategori/steam-random-key
+File Name: C:\Downloaded Web Sites\sanalitem.net\kategori\steam-random-key.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/kategori/valorant-random-hesap
+File Name: C:\Downloaded Web Sites\sanalitem.net\kategori\valorant-random-hesap.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/panel/login
+File Name: C:\Downloaded Web Sites\sanalitem.net\panel\login.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/panel/passreset
+File Name: C:\Downloaded Web Sites\sanalitem.net\panel\passreset.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/panel/register
+File Name: C:\Downloaded Web Sites\sanalitem.net\panel\register.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/public/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/css/aos.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/css/owl.theme.default.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\owl.theme.default.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/css/owl.video.play.png
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\owl.video.play.png.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/public/assets/css/style.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\style.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/css/theme-extra.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\theme-extra.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/css/theme-fonts.css
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\css\theme-fonts.css
+Content Type: text/css
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularABold.eot
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularABold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularABold.eot?
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularABold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularABold.otf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularABold.otf
+Content Type: application/x-font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularABold.ttf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularABold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularABold.woff
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularABold.woff
+Content Type: application/font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularABold.woff2
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularABold.woff2
+Content Type: font/woff2
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularALight.eot
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularALight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularALight.eot?
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularALight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularALight.otf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularALight.otf
+Content Type: application/x-font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularALight.ttf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularALight.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularALight.woff
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularALight.woff
+Content Type: application/font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularALight.woff2
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularALight.woff2
+Content Type: font/woff2
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularAMedium.eot
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularAMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularAMedium.eot?
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularAMedium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularAMedium.otf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularAMedium.otf
+Content Type: application/x-font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularAMedium.ttf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularAMedium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularAMedium.woff
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularAMedium.woff
+Content Type: application/font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularAMedium.woff2
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularAMedium.woff2
+Content Type: font/woff2
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularARegular.eot
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularARegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularARegular.eot?
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularARegular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularARegular.otf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularARegular.otf
+Content Type: application/x-font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularARegular.ttf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularARegular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularARegular.woff
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularARegular.woff
+Content Type: application/font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularARegular.woff2
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularARegular.woff2
+Content Type: font/woff2
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularASemiBold.eot
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularASemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularASemiBold.eot?
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularASemiBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularASemiBold.otf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularASemiBold.otf
+Content Type: application/x-font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularASemiBold.ttf
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularASemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularASemiBold.woff
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularASemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://sanalitem.net/public/assets/fonts/EuclidCircularASemiBold.woff2
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\fonts\EuclidCircularASemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://sanalitem.net/public/assets/img/payment.png
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\img\payment.png
+Content Type: image/png
+
+Uri: https://sanalitem.net/public/assets/img/siteinfosvg.svg
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\img\siteinfosvg.svg
+Content Type: image/svg+xml
+
+Uri: https://sanalitem.net/public/assets/js/aos.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\aos.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/assets/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\bootstrap-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/assets/js/customslide.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\customslide.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/assets/js/jquery.easy-ticker.min.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\jquery.easy-ticker.min.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/assets/js/jquery.sticky.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\jquery.sticky.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/assets/js/scripts.js
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\assets\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://sanalitem.net/public/img/paymentarrow.svg
+File Name: C:\Downloaded Web Sites\sanalitem.net\public\img\paymentarrow.svg.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/sanalitem-kullanici-sozlesmesi-ve-acik-riza-ve-aydinlatma-metni
+File Name: C:\Downloaded Web Sites\sanalitem.net\sanalitem-kullanici-sozlesmesi-ve-acik-riza-ve-aydinlatma-metni.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/sepet
+File Name: C:\Downloaded Web Sites\sanalitem.net\sepet.html
+Content Type: text/html
+
+Uri: https://sanalitem.net/upload/202408070359071370310942.png
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\202408070359071370310942.png
+Content Type: image/png
+
+Uri: https://sanalitem.net/upload/20240807035907957790342.png
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\20240807035907957790342.png
+Content Type: image/png
+
+Uri: https://sanalitem.net/upload/blog/202408101024161103000946.jpg
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\blog\202408101024161103000946.jpg
+Content Type: image/jpeg
+
+Uri: https://sanalitem.net/upload/blog/202408101040581599613299.jpg
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\blog\202408101040581599613299.jpg
+Content Type: image/jpeg
+
+Uri: https://sanalitem.net/upload/blog/202408101057501433807878.jpeg
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\blog\202408101057501433807878.jpeg
+Content Type: image/jpeg
+
+Uri: https://sanalitem.net/upload/blog/20240810113103666028927.jpeg
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\blog\20240810113103666028927.jpeg
+Content Type: image/jpeg
+
+Uri: https://sanalitem.net/upload/fake/
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\fake\index.htm
+Content Type: text/html
+
+Uri: https://sanalitem.net/upload/instagram/20240811103352920644734.jpg
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\instagram\20240811103352920644734.jpg
+Content Type: image/jpeg
+
+Uri: https://sanalitem.net/upload/instagram/20240811103553877012206.jpg
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\instagram\20240811103553877012206.jpg
+Content Type: image/jpeg
+
+Uri: https://sanalitem.net/upload/instagram/2024081110374849941236.jpg
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\instagram\2024081110374849941236.jpg
+Content Type: image/jpeg
+
+Uri: https://sanalitem.net/upload/instagram/20240811104048877791984.jpg
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\instagram\20240811104048877791984.jpg
+Content Type: image/jpeg
+
+Uri: https://sanalitem.net/upload/resim/202408110302131565505915.png
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\resim\202408110302131565505915.png
+Content Type: image/png
+
+Uri: https://sanalitem.net/upload/resim/202408110303461722315993.png
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\resim\202408110303461722315993.png
+Content Type: image/png
+
+Uri: https://sanalitem.net/upload/resim/202408110307221269989369.png
+File Name: C:\Downloaded Web Sites\sanalitem.net\upload\resim\202408110307221269989369.png
+Content Type: image/png
+
+Uri: https://sanalitem.net/urunler
+File Name: C:\Downloaded Web Sites\sanalitem.net\urunler.html
+Content Type: text/html
+
